@@ -1,0 +1,102 @@
+{
+  "source_base_path": "C:/Users/Hughes Portable Rig/source/repo documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppSetColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.AppWrite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.booseForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.booseForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/ASE_Assignment_Ashley_Hughes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/ASE_Assignment_Ashley_Hughes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "boose/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/toc.html"
+        },
+        ".json": {
+          "relative_path": "boose/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

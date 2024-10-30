@@ -1,0 +1,576 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ASE_Assignment_Ashley_Hughes
+  name: ASE_Assignment_Ashley_Hughes
+  href: boose/ASE_Assignment_Ashley_Hughes.html
+  commentId: N:ASE_Assignment_Ashley_Hughes
+  fullName: ASE_Assignment_Ashley_Hughes
+  nameWithType: ASE_Assignment_Ashley_Hughes
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas
+  name: AppCanvas
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCanvas
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas
+  nameWithType: AppCanvas
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.#ctor
+  name: AppCanvas()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas__ctor
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.AppCanvas()
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.New()
+  nameWithType: AppCanvas.AppCanvas()
+  nameWithType.vb: AppCanvas.New()
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.#ctor*
+  name: AppCanvas
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas__ctor_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.AppCanvas
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Brush
+  name: Brush
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Brush
+  commentId: F:ASE_Assignment_Ashley_Hughes.AppCanvas.Brush
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Brush
+  nameWithType: AppCanvas.Brush
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Circle(int, bool)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Circle*
+  name: Circle
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Circle_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Circle
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Clear
+  name: Clear()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Clear
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Clear
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Clear*
+  name: Clear
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Clear_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Clear
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo(int, int)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo*
+  name: DrawTo
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_DrawTo_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo(int, int)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo*
+  name: MoveTo
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_MoveTo_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Pen
+  name: Pen
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Pen
+  commentId: F:ASE_Assignment_Ashley_Hughes.AppCanvas.Pen
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Pen
+  nameWithType: AppCanvas.Pen
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour
+  name: PenColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_PenColour
+  commentId: P:ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour*
+  name: PenColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_PenColour_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Rect(int, int, bool)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Rect*
+  name: Rect
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Rect_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Rect
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Reset
+  name: Reset()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Reset
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Reset
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Reset*
+  name: Reset
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Reset_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Reset
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Set(int, int)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Set*
+  name: Set
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Set_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Set
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour(int, int, int)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour*
+  name: SetColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_SetColour_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Tri(int, int)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Tri*
+  name: Tri
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Tri_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Tri
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_WriteText_System_String_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText(string)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText*
+  name: WriteText
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_WriteText_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos
+  name: Xpos
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Xpos
+  commentId: P:ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos*
+  name: Xpos
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Xpos_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos
+  name: Ypos
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Ypos
+  commentId: P:ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos*
+  name: Ypos
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_Ypos_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap
+  name: getBitmap()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_getBitmap
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap*
+  name: getBitmap
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_getBitmap_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.penColour
+  name: penColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_penColour
+  commentId: F:ASE_Assignment_Ashley_Hughes.AppCanvas.penColour
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.penColour
+  nameWithType: AppCanvas.penColour
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas.penSize
+  name: penSize
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCanvas.html#ASE_Assignment_Ashley_Hughes_AppCanvas_penSize
+  commentId: F:ASE_Assignment_Ashley_Hughes.AppCanvas.penSize
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas.penSize
+  nameWithType: AppCanvas.penSize
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle
+  name: AppCircle
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCircle
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle
+  nameWithType: AppCircle
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_CheckParameters_System_String___
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters(string[])
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters(String())
+  nameWithType: AppCircle.CheckParameters(string[])
+  nameWithType.vb: AppCircle.CheckParameters(String())
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters*
+  name: CheckParameters
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_CheckParameters_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.CheckParameters
+  nameWithType: AppCircle.CheckParameters
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Compile
+  name: Compile()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Compile
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCircle.Compile
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Compile()
+  nameWithType: AppCircle.Compile()
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Compile*
+  name: Compile
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Compile_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCircle.Compile
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Compile
+  nameWithType: AppCircle.Compile
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Execute
+  name: Execute()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Execute
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCircle.Execute
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Execute()
+  nameWithType: AppCircle.Execute()
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Execute*
+  name: Execute
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Execute_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCircle.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Execute
+  nameWithType: AppCircle.Execute
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCircle.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Set(BOOSE.StoredProgram, string)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCircle.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppCircle.Set(StoredProgram, string)
+  nameWithType.vb: AppCircle.Set(StoredProgram, String)
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle.Set*
+  name: Set
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCircle.html#ASE_Assignment_Ashley_Hughes_AppCircle_Set_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCircle.Set
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle.Set
+  nameWithType: AppCircle.Set
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  name: AppCommandFactory
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  nameWithType: AppCommandFactory
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory.#ctor
+  name: AppCommandFactory()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html#ASE_Assignment_Ashley_Hughes_AppCommandFactory__ctor
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCommandFactory.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory.AppCommandFactory()
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCommandFactory.New()
+  nameWithType: AppCommandFactory.AppCommandFactory()
+  nameWithType.vb: AppCommandFactory.New()
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory.#ctor*
+  name: AppCommandFactory
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html#ASE_Assignment_Ashley_Hughes_AppCommandFactory__ctor_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCommandFactory.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory.AppCommandFactory
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCommandFactory.New
+  nameWithType: AppCommandFactory.AppCommandFactory
+  nameWithType.vb: AppCommandFactory.New
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html#ASE_Assignment_Ashley_Hughes_AppCommandFactory_MakeCommand_System_String_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand(string)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand(String)
+  nameWithType: AppCommandFactory.MakeCommand(string)
+  nameWithType.vb: AppCommandFactory.MakeCommand(String)
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: boose/ASE_Assignment_Ashley_Hughes.AppCommandFactory.html#ASE_Assignment_Ashley_Hughes_AppCommandFactory_MakeCommand_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory.MakeCommand
+  nameWithType: AppCommandFactory.MakeCommand
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour
+  name: AppSetColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppSetColour
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour
+  nameWithType: AppSetColour
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.#ctor
+  name: AppSetColour()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour__ctor
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppSetColour.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.AppSetColour()
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppSetColour.New()
+  nameWithType: AppSetColour.AppSetColour()
+  nameWithType.vb: AppSetColour.New()
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.#ctor*
+  name: AppSetColour
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour__ctor_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppSetColour.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.AppSetColour
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppSetColour.New
+  nameWithType: AppSetColour.AppSetColour
+  nameWithType.vb: AppSetColour.New
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_CheckParameters_System_String___
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters(string[])
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters(String())
+  nameWithType: AppSetColour.CheckParameters(string[])
+  nameWithType.vb: AppSetColour.CheckParameters(String())
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters*
+  name: CheckParameters
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_CheckParameters_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.CheckParameters
+  nameWithType: AppSetColour.CheckParameters
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Compile
+  name: Compile()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Compile
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppSetColour.Compile
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Compile()
+  nameWithType: AppSetColour.Compile()
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Compile*
+  name: Compile
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Compile_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppSetColour.Compile
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Compile
+  nameWithType: AppSetColour.Compile
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Execute
+  name: Execute()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Execute
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppSetColour.Execute
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Execute()
+  nameWithType: AppSetColour.Execute()
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Execute*
+  name: Execute
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Execute_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppSetColour.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Execute
+  nameWithType: AppSetColour.Execute
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppSetColour.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Set(BOOSE.StoredProgram, string)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppSetColour.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppSetColour.Set(StoredProgram, string)
+  nameWithType.vb: AppSetColour.Set(StoredProgram, String)
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour.Set*
+  name: Set
+  href: boose/ASE_Assignment_Ashley_Hughes.AppSetColour.html#ASE_Assignment_Ashley_Hughes_AppSetColour_Set_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppSetColour.Set
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour.Set
+  nameWithType: AppSetColour.Set
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite
+  name: AppWrite
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppWrite
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite
+  nameWithType: AppWrite
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.#ctor
+  name: AppWrite()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite__ctor
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppWrite.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.AppWrite()
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppWrite.New()
+  nameWithType: AppWrite.AppWrite()
+  nameWithType.vb: AppWrite.New()
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.#ctor*
+  name: AppWrite
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite__ctor_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppWrite.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.AppWrite
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppWrite.New
+  nameWithType: AppWrite.AppWrite
+  nameWithType.vb: AppWrite.New
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_CheckParameters_System_String___
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters(string[])
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters(String())
+  nameWithType: AppWrite.CheckParameters(string[])
+  nameWithType.vb: AppWrite.CheckParameters(String())
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters*
+  name: CheckParameters
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_CheckParameters_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.CheckParameters
+  nameWithType: AppWrite.CheckParameters
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Compile
+  name: Compile()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Compile
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppWrite.Compile
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Compile()
+  nameWithType: AppWrite.Compile()
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Compile*
+  name: Compile
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Compile_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppWrite.Compile
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Compile
+  nameWithType: AppWrite.Compile
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Execute
+  name: Execute()
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Execute
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppWrite.Execute
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Execute()
+  nameWithType: AppWrite.Execute()
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Execute*
+  name: Execute
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Execute_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppWrite.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Execute
+  nameWithType: AppWrite.Execute
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:ASE_Assignment_Ashley_Hughes.AppWrite.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Set(BOOSE.StoredProgram, string)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.AppWrite.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppWrite.Set(StoredProgram, string)
+  nameWithType.vb: AppWrite.Set(StoredProgram, String)
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite.Set*
+  name: Set
+  href: boose/ASE_Assignment_Ashley_Hughes.AppWrite.html#ASE_Assignment_Ashley_Hughes_AppWrite_Set_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.AppWrite.Set
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite.Set
+  nameWithType: AppWrite.Set
+- uid: ASE_Assignment_Ashley_Hughes.booseForm
+  name: booseForm
+  href: boose/ASE_Assignment_Ashley_Hughes.booseForm.html
+  commentId: T:ASE_Assignment_Ashley_Hughes.booseForm
+  fullName: ASE_Assignment_Ashley_Hughes.booseForm
+  nameWithType: booseForm
+- uid: ASE_Assignment_Ashley_Hughes.booseForm.#ctor
+  name: booseForm()
+  href: boose/ASE_Assignment_Ashley_Hughes.booseForm.html#ASE_Assignment_Ashley_Hughes_booseForm__ctor
+  commentId: M:ASE_Assignment_Ashley_Hughes.booseForm.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Ashley_Hughes.booseForm.booseForm()
+  fullName.vb: ASE_Assignment_Ashley_Hughes.booseForm.New()
+  nameWithType: booseForm.booseForm()
+  nameWithType.vb: booseForm.New()
+- uid: ASE_Assignment_Ashley_Hughes.booseForm.#ctor*
+  name: booseForm
+  href: boose/ASE_Assignment_Ashley_Hughes.booseForm.html#ASE_Assignment_Ashley_Hughes_booseForm__ctor_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.booseForm.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Ashley_Hughes.booseForm.booseForm
+  fullName.vb: ASE_Assignment_Ashley_Hughes.booseForm.New
+  nameWithType: booseForm.booseForm
+  nameWithType.vb: booseForm.New
+- uid: ASE_Assignment_Ashley_Hughes.booseForm.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: boose/ASE_Assignment_Ashley_Hughes.booseForm.html#ASE_Assignment_Ashley_Hughes_booseForm_Dispose_System_Boolean_
+  commentId: M:ASE_Assignment_Ashley_Hughes.booseForm.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASE_Assignment_Ashley_Hughes.booseForm.Dispose(bool)
+  fullName.vb: ASE_Assignment_Ashley_Hughes.booseForm.Dispose(Boolean)
+  nameWithType: booseForm.Dispose(bool)
+  nameWithType.vb: booseForm.Dispose(Boolean)
+- uid: ASE_Assignment_Ashley_Hughes.booseForm.Dispose*
+  name: Dispose
+  href: boose/ASE_Assignment_Ashley_Hughes.booseForm.html#ASE_Assignment_Ashley_Hughes_booseForm_Dispose_
+  commentId: Overload:ASE_Assignment_Ashley_Hughes.booseForm.Dispose
+  isSpec: "True"
+  fullName: ASE_Assignment_Ashley_Hughes.booseForm.Dispose
+  nameWithType: booseForm.Dispose
